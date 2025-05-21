@@ -9,7 +9,7 @@ The interface uses only default buttons and simple text or emoji for graphics—
 
 ## Features
 
-- Very simple and minimalistic graphics (default buttons and emoji/text only)
+- Very simple and minimalistic graphics
 - Customizable grid size and number of mines
 - Win/loss detection
 - Game reset functionality
@@ -32,22 +32,12 @@ The interface uses only default buttons and simple text or emoji for graphics—
 - Start the game from Visual Studio (`F5` or "Start" button).
 - Play using the default interface:
   - Click tiles to reveal them.
-  - Right-click to flag potential mines (if implemented).
+  - Right-click to flag potential mines.
   - Win by revealing all safe tiles!
 
 ## Notes
 
 - The game uses only basic graphics (no images), so the appearance is very simple and functional.
-
-## Contributing
-
-Contributions are welcome!  
-To contribute:
-- Fork the repository
-- Create a new branch (`git checkout -b feature/your-feature`)
-- Commit your changes (`git commit -am 'Add some feature'`)
-- Push the branch (`git push origin feature/your-feature`)
-- Open a Pull Request
 
 ## License
 
